@@ -2,7 +2,7 @@
 
 > **A pocket-sized environmental telemetry system that continuously samples air quality metrics, compresses data into binary format, and detects environmental anomalies in real-time.**
 
-## 📖 Project Overview
+## 📖 Project Overview [Work currently in progress...]
 
 The **Environmental Black Box** is a resource-constrained data logger powered by the **ESP32-S3**. Unlike standard hobbyist weather stations, this system functions as a "black box" for human environments—recording critical telemetry (temperature, pressure, humidity) with millisecond precision to detect environmental shifts that impact cognitive performance.
 
